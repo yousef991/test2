@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+1- How to use attribute easily and how to make a refrance for your future codes.
+2- everything :)
+3- Mockup to Article Overview
+4- I took a break and after drank a coffee i started to do the project.
+
+
